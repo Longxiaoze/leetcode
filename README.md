@@ -10,3 +10,9 @@ leetcode所有题（持续更新）
 20200925 [第四题](https://github.com/Longxiaoze/leetcode/tree/master/0004) python
 
 20200926 [第五题](https://github.com/Longxiaoze/leetcode/tree/master/0005) python
+
+20200927 [第六题](https://github.com/Longxiaoze/leetcode/tree/master/0006) python
+
+20200928 [第七题](https://github.com/Longxiaoze/leetcode/tree/master/0007) python
+
+20200929 [第八题](https://github.com/Longxiaoze/leetcode/tree/master/0008) python
