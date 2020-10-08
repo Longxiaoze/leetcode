@@ -1,5 +1,5 @@
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
+    def letterCombinations(self, digits):
         if not digits:
             return list()
         
@@ -14,7 +14,7 @@ class Solution:
             "9": "wxyz",
         }
 
-        def backtrack(index: int):
+        def backtrack(index):
             if index == len(digits):
                 combinations.append("".join(combination))
             else:
@@ -28,10 +28,10 @@ class Solution:
         combinations = list()
         backtrack(0)
         return combinations
- '''  
+''' 
  #官方给的精简版，看一下就行了，个人觉得代码还是可读性高一点比较好
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
+    def letterCombinations(self, digits):
         if not digits:
             return list()
         
@@ -48,4 +48,4 @@ class Solution:
 
         groups = (phoneMap[digit] for digit in digits)
         return ["".join(combination) for combination in itertools.product(*groups)]
-'''   
+'''
