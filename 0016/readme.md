@@ -79,7 +79,7 @@ class Solution:
 
 ```python
 class Solution:
-    def threeSumClosest(self, nums: List[int], target: int) -> int:
+    def threeSumClosest(self, nums, target):
         n = len(nums)
         nums.sort()         # 排序
         ans = float('inf') 
@@ -131,4 +131,4 @@ class Solution:
 
 **自己的体会：**
 
-​	第二个真大佬解题，百分百是我没想到的。。。。
+​	第二个真大佬解题，建议细品。。。百分百是我没想到的。。。。
