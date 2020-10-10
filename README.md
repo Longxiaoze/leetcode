@@ -22,5 +22,5 @@ leetcode所有题（持续更新）
 | 20201008 | [第十六题（最接近的三数之和）](https://leetcode-cn.com/problems/3sum-closest) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00016) |      |
 | 20201008 | [第十七题（电话号码的数字组合）](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00017) |      |
 | 20201009 | [第十八题（四数之和）](https://leetcode-cn.com/problems/4sum) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00018) |      |
-| 20201009 | [第十九题（删除链表的倒数第N个节点）](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00019) |      |
+| 20201010 | [第十九题（删除链表的倒数第N个节点）](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00019) |      |
 
