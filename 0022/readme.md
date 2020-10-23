@@ -1,6 +1,6 @@
 # 22. leetcode第二十二题
 
-**欢迎来到[leetcode第二十二题](hhttps://leetcode-cn.com/problems/generate-parentheses/)**
+**欢迎来到[leetcode第二十二题](https://leetcode-cn.com/problems/generate-parentheses/)**
 
 ```markdown
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
