@@ -25,4 +25,5 @@ leetcode所有题（持续更新）
 | 20201010 | [第十九题（删除链表的倒数第N个节点）](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00019) |      |
 | 20201011 | [第二十题（有效的括号）](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00020) |      |
 | 20201011 | [第二十一题（合并两个有序链表）](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00021) |      |
-| 20201011 | [第二十二题（括号生成）](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/00022) |      |
+| 20201011 | [第二十二题（括号生成）](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/0022) |      |
+| 20201023 | [第二十四题（两两交换链表中的节点）](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 | [python](https://github.com/Longxiaoze/leetcode/tree/master/0024) |      |
