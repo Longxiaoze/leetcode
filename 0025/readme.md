@@ -1,6 +1,6 @@
-# 25. leetcode第二十五题
+# 26. leetcode第二十六题
 
-**欢迎来到[leetcode第二十五题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)**
+**欢迎来到[leetcode第二十六题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)**
 
 ```markdown
 Given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length.
